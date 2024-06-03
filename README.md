@@ -29,18 +29,16 @@ Literalura es una aplicación en Java que permite buscar, registrar y gestionar 
 
 ## Capturas de Pantalla de algunas Opciones Disponibles
 
-##Menú
+### Menú
 ![Captura de Pantalla 1](IMG/menu.png)
-## Opcion 1
+### Opción 1
 ![Captura de Pantalla 2](IMG/op1.png)
-## Opcion 2
+### Opción 2
 ![Captura de Pantalla 3](IMG/op2.png)
-## Opcion 3
+### Opción 3
 ![Captura de Pantalla 4](IMG/op3.png)
-## Opcion 6
+### Opción 6
 ![Captura de Pantalla 5](IMG/op6.png)
-
-
 
 ## Contribución
 
